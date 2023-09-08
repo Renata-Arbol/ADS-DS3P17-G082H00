@@ -1,0 +1,97 @@
+TAGS DO HTML 5
+
+Conforme já visto, o HTML, ou HyperText Markup Language, é uma linguagem de marcação utilizada pelos desenvolvedores com o objetivo de criar páginas e aplicativos na web. 
+É classificada como uma linguagem de marcação, porque é utilizada para "marcar" textos em um documento com o fito de determinar o que cada parte representa, assim como fazemos em documentos legais. À título de comparação, é possível associar as “tags” do HTML como cláusulas contratuais que definem se um texto é um título, um parágrafo, uma lista, um link e assim por diante.
+
+1. INTRODUÇÃO
+
+Um documento HTML tem uma estrutura que lembra um contrato ou uma petição. 
+Há um início (<html>), um cabeçalho (<head>) e um corpo (<body>). No cabeçalho, você coloca informações sobre a página, como um título, que é como um preâmbulo de um contrato. No corpo, você coloca o conteúdo visível da página, que é como as cláusulas e termos do contrato.
+Dentro do corpo, são usadas diversas “tags” para formatar o texto, criar listas, adicionar links e imagens, assim como fazemos com diferentes partes de um documento jurídico. Também existem atributos, que são como notas de rodapé que fornecem informações adicionais sobre um elemento, como especificar o endereço de um link.
+
+2. AS TAGS DO HTML 5
+
+O HTML é usado com o CSS, que controla a aparência da página, como se fosse a formatação de um documento jurídico, e o JavaScript, que adiciona funcionalidade e interatividade, como um anexo com informações adicionais.
+Dessa forma, seguem alguns exemplos de “tags” de HTML e a respectiva funcionalidade que representa na elaboração de uma página web.
+<html>: Essa é a tag que define que o documento é um arquivo HTML, assim como o cabeçalho de um contrato define o tipo de documento.
+<!DOCTYPE>: Define o tipo de documento.
+<a>: Cria um link. Atributos: href, target, download.
+<abbr>: Abreviação.
+<address>: Informação de contato.
+<area>: Área dentro de um mapa de imagem. Atributos: shape, coords, href.
+<article>: Conteúdo independente.
+<aside>: Conteúdo à parte.
+<audio>: Som ou música. Atributos: src, controls, autoplay.
+<b>: Texto em negrito.
+<base>: URL base para links. Atributo: href.
+<bdi>: Isola texto com direção diferente.
+<bdo>: Sobrepõe direção de texto. Atributo: dir.
+<blockquote>: Citação longa. Atributo: cite.
+<button>: Botão. Atributos: type, disabled.
+<canvas>: Desenho gráfico. Atributos: width, height.
+<caption>: Legenda de tabela.
+<cite>: Título de obra.
+<code>: Código de computador.
+<col>: Grupo de colunas em tabela. Atributo: span.
+<colgroup>: Grupo de colunas em tabela. Atributo: span.
+<head>: Esta tag é como a seção de informações gerais de um contrato. Ela contém informações sobre a página, como o título e os metadados.
+<title>: Dentro da tag <head>, essa tag define o título da página, como o título de um contrato.
+<body>: Esta tag é como o corpo de um contrato. Ela contém todo o conteúdo visível da página.
+<h1>, <h2>, <h3>, <h4>, <h5>, <h6>: Essas tags são usadas para cabeçalhos, como os cabeçalhos das seções de um contrato. O número indica o nível do cabeçalho, com <h1> sendo o mais importante.
+<p>: Esta tag define um parágrafo, assim como um parágrafo em um contrato.
+<data>: Valor legível por máquina. Atributo: value.
+<datalist>: Lista de opções para input.
+<dd>: Descrição de termo em lista de definição.
+<del>: Texto deletado. Atributos: cite, datetime.
+<details>: Detalhes que o usuário pode abrir. Atributo: open.
+<dfn>: Termo de definição.
+<dialog>: Caixa de diálogo.
+<dl>: Lista de definição.
+<dt>: Termo em lista de definição.
+<em>: Ênfase de texto.
+<embed>: Conteúdo incorporado. Atributos: src, type, width, height.
+<fieldset>: Grupo de campos de formulário.
+<figcaption>: Legenda de figura.
+<figure>: Conteúdo relacionado à imagem.
+<footer>: Rodapé de seção.
+<form>: Formulário. Atributos: action, method.
+<ul>: Esta tag cria uma lista não ordenada, como uma lista de itens em um contrato.
+<ol>: Esta tag cria uma lista ordenada, como uma lista numerada em um contrato.
+<li>: Esta tag define um item em uma lista, como um item em uma lista de um contrato.
+<img>: Esta tag insere uma imagem, como uma figura ou um gráfico em um contrato. Ela usa o atributo "src" para especificar a localização da imagem.
+<br>: Esta tag cria uma quebra de linha, como um espaço entre parágrafos em um contrato.
+<header>: Cabeçalho de seção.
+<hgroup>: Grupo de cabeçalhos.
+<hr>: Esta tag cria uma linha horizontal, como uma linha divisória em um contrato.
+<div>: Esta tag define uma seção, como uma seção de um contrato.
+<i>: Texto em itálico.
+<iframe>: Frame incorporado. Atributos: src, width, height.
+<input>: type (tipo de entrada), name (nome do campo), value (valor), placeholder (texto de preenchimento), required (obrigatório), disabled (desativado), readonly (somente leitura).
+<main>: Conteúdo principal.
+<map>: Mapa de imagem. Atributo: name.
+<mark>: Texto destacado.
+<menu>: Lista de comandos.
+<meta>: Metadados sobre documento. Atributos: name, content.
+<meter>: Medida escalar. Atributos: value, min, max.
+<nav>: Navegação.
+<noscript>: Conteúdo alternativo se JavaScript estiver desativado.
+<object>: Objeto incorporado. Atributos: data, type, width, height.
+<span>: Esta tag define uma parte do texto, como uma frase ou palavra em um contrato.
+<table>: Esta tag cria uma tabela, como uma tabela em um contrato.
+<thead>, <tbody>, <tfoot>: Essas tags definem a cabeça, o corpo e o rodapé de uma tabela, respectivamente.
+<tr>: Esta tag define uma linha em uma tabela.
+<th>: Esta tag define uma célula de cabeçalho em uma tabela.
+<td>: Esta tag define uma célula de dados em uma tabela.
+<param>: Parâmetro para objeto. Atributos: name, value.
+As tags acima são as principais “tags” do HTML5. Importante ressaltar ainda que cada tag pode ter diversos atributos que definem suas propriedades e comportamentos. É através da junção destas “tags”, combinando-as entre si que se torna possível criar páginas da web tão distintas e personalizadas conforme se verifica na atualidade.
+
+3. REFERÊNCIAS BIBLIOGRÁFICAS
+
+Ferreira, Silvio. Guia Prático de HTML 5. São Paulo: Universo dos Livros, 2013.
+Silva, Mauricio Samy. HTML 5 - A linguagem de marcação que revolucionou a web. São Paulo: Novatec Editora, 2010.
+https://www.caelum.com.br/apostila/apostila-html-css-javascript.pdf. Data de acesso: 21.08.2023
+
+
+
+
+

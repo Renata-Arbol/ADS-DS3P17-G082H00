@@ -1,0 +1,57 @@
+        HTML 5 E A DIFERENÇA ENTRE OS NAVEGADORES E MOTORES DO NAVEGADOR
+
+1. INTRODUÇÃO 
+ 
+A evolução da internet na forma como conhecemos hoje certamente tomou rumos significativos ao adotar o HTML como padrão oficial. 
+Criado na Suiça pelo físico Tim Berners-Lee na Suíça, ao qual também é atribuída a criação do World Wide Web, o HTML, sigla de Hypertext Markup Language, pode ser traduzido na língua portuguesa como "Linguagem de Marcação de Hipertexto".
+Publicada em 1991, a primeira versão do HTML continha 18 tags, que são usados para marcar e definir os conteúdos de uma página. Atualmente, o HTML encontra-se na versão 5.2, contando com mais de 140 tags.
+Por certo, a publicação promovida em 2014, consistente na versão 5 do HTML trouxe a definitiva separação entre a marcação do conteúdo e a formatação do layout, este atribuído ainda mais ao CSS.
+
+2. ALTERAÇÕES PROMOVIDAS PELO HTML 5
+
+Segundo leciona Silvio Ferreira, o intuito da versão 5 do HTML é tornar a internet mais semântica, através de um código padronizado e organizado. 
+A quinta versão do HTML é uma nova versão do HTML 4.01. As maiores alterações ocorreram no tópico relacionado a estruturação de páginas, de forma que foram introduzidas tags específicas à cada seção. Citam-se como exemplos: 
+
+<header> isto é, o cabeçalho de uma seção, que podem ser usados no documento ou seções específicas;
+<aside>: cria um conteúdo que possui relação com o conteúdo principal da página, como banners, links atrativos ou imagens. 
+<section>: cria uma sensação de conteúdo e pode agrupar conteúdos diversos.
+<nav> cria uma seção de menu principal do site 
+
+Cabe destacar que o principal objetivo posto no HTML 5, isto é, torná-lo mais semântico possibilita a utilização das tags em conformidade com o significo de cada elemento da página, de forma a atribuir as tags corretas às partes/seções da página.
+Nesse sentido, navegadores, motores de busca, leitores de tela poderão manipular estas páginas sem grandes problemas, uma vez orientados conforme a posição destas tags.
+Bem por isso, os navegadores de internet e os respectivos motores do navegador merecem estudo.
+
+3. DIFEREÇA ENTRE NAVEGADORES E MOTORES DE RENDERIZAÇÃO
+
+Atualmente, verifica-se no mercado diversos navegadores para acesso às páginas da internet. Cumpre ao navegador obter acesso as informações destas páginas para realizar a leitura e exibição dos dados ali constantes, no formato e modelo definidos pelo criador do conteúdo.
+Para tanto, o navegador web utiliza um tipo de software denominado mecanismo (motores) de renderização.
+Os principais navegadores e os respectivos motores de renderização são: 
+
+Safari - Webkit; 
+Firefox - Gecko; 
+Internet Explorer - Trident; 
+Edge, Google Chrome e Opera - Blink.
+
+As distinções entre os diferentes motores citados podem ser verificadas em atributos como os padrões e suporte a novas tecnologias, segurança, bem como performance e eficiência.
+Por exemplo, o Webkit possui larga aplicabilidade em produtos da marca Apple, pois é projetado para integrar funcionalidades desse sistema, distintamente dos demais motores de renderização citados.
+Por sua vez, o Gecko possui como diferencial atributos que visam a privacidade e segurança do usuário, com a implementação de recursos como "Proteção contra Rastreamento".
+No que diz respeito ao Blink, é possível notar como diferencial melhor desempenho e velocidade em comparação aos demais motores, o que resulta em tempos de carregamento mais curtos das páginas web.
+O Blink também possui alta integração com novas tecnologias, de forma que as atualizações são regulares a fim de promover uma melhor interação com os novos recursos oferecidos pelo HTML 5, por exemplo.
+
+4. CONCLUSÃO 
+
+Em virtude dessa diversidade de navegadores, com padrões de leitura e exibicação distintos entre si, é muito comum que a mesma página da web possua diferenças quando exibidas em diferentes navegadores.
+Dessa forma, a adoção de um padrão, com definição de uma estrutura a ser seguida pelos criadores de conteúdo de páginas web, através dos recursos de HTML 5, entere outros, bem como, aplicados também pelos mecanismos de renderização, certamente levarão a uma melhor interação entre a máquina e o homem, além de consistência e integridade na entrega das informações.
+
+5. REFERÊNCIAS BIBLIOGRÁFICAS
+
+Ferreira, Silvio. Guia Prático de HTML 5. São Paulo: Universo dos Livros, 2013.
+Silva, Mauricio Samy. HTML 5 - A linguagem de marcação que revolucionou a web. São Paulo: Novatec Editora, 2010.
+https://www.alura.com.br/artigos/as-engines-de-renderizacao-dos-browsers. Data de acesso: 14.08.2023.
+https://www.alura.com.br/artigos/as-engines-de-renderizacao-dos-browsers. Data de acesso: 14.08.2023.
+
+
+
+
+
+
